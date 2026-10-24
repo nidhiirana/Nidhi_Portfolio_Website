@@ -1,0 +1,13 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python / Node tooling artefacts
+__pycache__/
+*.pyc
+node_modules/
+
+# Private files must never be committed
+*.env
+certificate*
